@@ -24,27 +24,5 @@ A Online Shop app built with Kotlin, with some Java, and Firebase, focused on UI
   <br>
 </div>
 
-## Getting Started
-
-#### 1. [Setup Android Studio](https://developer.android.com/studio)
-
-#### 2. Clone the Repo
-
-```
-$ git clone https://github.com/nur1ibekhh/OnlineShops
-```
-
-#### 3. Setup Firebase Realtime Database
-
-1. Create a Firebase Project:
-    - Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
-2. Enable Firebase Realtime Database:
-    - In your Firebase project console:
-      - Click on Realtime Database from the left-hand menu.
-      - Click on "Create Database."
-      - Choose "Start in test mode" for initial setup and click "Enable."
-3. Add Data to Realtime Database:
-    - Go to the Firebase Realtime Database in the console.
-    - Click on the three dots in the upper right corner and select Import JSON.
-    - Choose the `database_firebase.json` file and import it to populate the database with initial data.
+## Thanks for watching 
 
