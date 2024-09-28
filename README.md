@@ -1,11 +1,11 @@
 # Online Shop
 
-A Coffee Shop app built with Kotlin, with some Java, and Firebase, focused on UI design, created as a quick project to test item addition to the cart functionality.
+A Online Shop app built with Kotlin, with some Java, and Firebase, focused on UI design, created as a quick project to test item addition to the cart functionality.
 
 ## Features
 
  * **Premium UI:** Visually appealing, user-friendly, and attractively designed interface for an enhanced user experience.
- * **Popular Coffees:**
+ * **Popular items:**
    * Users can check item ratings.
    * Users can select item sizes.
  * **Cart Screen:**
